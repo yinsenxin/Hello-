@@ -1,0 +1,39 @@
+https://coolshell.cn/  酷壳
+https://developer.mozilla.org/zh-CN/docs/Web     WEB开发技术学习
+https://www.cnblogs.com/gxz-sw/p/9754975.html   前后端分离 讲解
+https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247486678&idx=1&sn=2a5e38e67c3d267d6c58d963adb24ccc&chksm=eb5389e0dc2400f6f6d2e0eaded591fcfc32575ca227e2cebcf39eec13ff8071a649e494f7d8&scene=21#wechat_redirect    Spring  面试题
+https://www.jianshu.com/p/33c6a7ed126f   C4 画图软件
+https://www.cnblogs.com/kevingrace/p/5690241.html   git 提交相关
+https://gmtc.infoq.cn/2019/shenzhen/track/647   全球大前端技术大会
+https://juejin.im/post/5e11d8795188253a8210815d     顶级大佬整理 学习方法
+https://www.cnblogs.com/qk2014/p/9091647.html      https://blog.csdn.net/sinat_38682860/article/details/82354342    GitHub https://github.com/letiantian/flask-tutorial/tree/master    Python相关
+https://www.jianshu.com/p/52683780c76e    CodeMirror  在线代码 编辑器
+https://www.cnblogs.com/landeanfen/p/5007400.html   bootstrapTable 前端 知识 
+http://www.verejava.com/?id=16994944659329   正则表达式  验证用户名
+https://blog.csdn.net/bluefish625/article/details/6659288  Cotent-type 介绍
+https://datatables.net/extensions/scroller/examples/initialisation/server-side_processing.html  前端处理 大数据量 
+https://www.cnblogs.com/huangzhen22/p/3918957.html   bootstrapTable 相关
+http://blog.zhaojie.me/2009/03/codetimer.html   大佬博客
+https://blog.csdn.net/zhang135123/article/details/85273957    https://blog.csdn.net/seesun2012/article/details/105165495   mongoDB 多表查询 处理等
+https://blog.csdn.net/weixin_38256991/article/details/81672235?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase    1.8 关于List的处理，整理博客
+https://www.cnblogs.com/sharpest/   博客关注
+https://www.cnblogs.com/756623607-zhang/p/10052144.html idea配置相关
+https://blog.csdn.net/yin767833376/article/details/54379421    bootstrap中table的行拖拽实现
+List<String> list = list.stream().distinct().collect(Collectors.toList());
+https://blog.csdn.net/ianly123/article/details/82658622
+  客户端 调试 http://www.igeekbar.com/igeekbar/post/156.htm 
+winsw-2.1.2-bin.exe  http://repo.jenkins-ci.org/releases/com/sun/winsw/winsw/  具体使用 google
+攻克 --https://www.cnblogs.com/lwh-note/p/9495954.html
+sql50道 https://www.cnblogs.com/coder-wf/p/11128033.html
+sql https://blog.csdn.net/zytbft/article/details/84504348
+网络通信 https://www.cnblogs.com/linhaifeng/articles/5937962.html
+https://haoduoshipin.com/
+sikuli https://blog.csdn.net/DearMorning/article/details/80221742
+https://www.cnblogs.com/xiyushimei/p/7874019.html
+AI https://blog.csdn.net/qq_34470213/article/details/79592484  
+https://www.iteye.com/blog/357029540-2389045
+网络协议 https://www.2cto.com/net/201803/726359.html
+websocket 实时推送消息 => https://www.cnblogs.com/liuyong1993/p/10718961.html
+https://www.cnblogs.com/zyy1688/p/10002089.html
+https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10409771634841488153%22%7D&n_type=1&p_from=4
+https://www.cnblogs.com/nananana/archive/2017/09.html
